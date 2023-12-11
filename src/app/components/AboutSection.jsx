@@ -55,7 +55,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Persuing Master's Degree at Ain Shams University</li>
+        <li>Persuing Master&apos;s Degree at Ain Shams University</li>
         <li>Accuried BSc. in Computer Science and Engineering from the German University in Cairo</li>
       </ul>
     ),
